@@ -1,0 +1,27 @@
+# Public Keys
+-----BEGIN PUBLIC KEY-----
+-----END PUBLIC KEY-----
+
+# RSA Private Key
+-----BEGIN RSA PRIVATE KEY-----
+-----END RSA PRIVATE KEY-----
+
+# GPG Public Key
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+-----END PGP PUBLIC KEY BLOCK-----
+
+# Certificates
+-----BEGIN CERTIFICATE-----
+-----END CERTIFICATE-----
+
+# Contributors
+<!-- FINANCIAL-CONTRIBUTORS-BEGIN -->
+<!-- FINANCIAL-CONTRIBUTORS-END -->
+
+# Contributors
+<!-- ALL-CONTRIBUTORS-LIST:START
+<!-- ALL-CONTRIBUTORS-LIST:END
+
+# CSS Font names
+font-family: -
+;
